@@ -1,0 +1,1 @@
+I'm testing this setup for commitlint before moving it to the original repo
