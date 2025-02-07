@@ -1,16 +1,13 @@
 {
   "name": "commitlint-setup",
   "version": "1.0.0",
-  "main": "CommitLint.config.js",
+  "main": "commitlint.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "test": "echo \"No tests specified\"",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "husky": "^8.0.0"
-  }
+  "description": ""
 }
